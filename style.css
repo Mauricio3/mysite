@@ -44,8 +44,18 @@ a {
 .post_content {
   margin: 0px;
   margin-bottom: 15px;
+  text-transform: capitalize;
 }
 
 .post_image {
   margin-bottom: 15px;
+}
+
+.contacts_list {
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+ul li a {
+  text-decoration: none;
 }
